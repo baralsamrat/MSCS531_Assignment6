@@ -1,0 +1,4 @@
+Configuration,IPC (Instructions/Cycle),Latency (ns),Throughput (GB/s),Power Consumption (Watts)
+Base,1.2,300,15,85
+Optimized TLP,2.4,250,22,78
+Optimized NoC,3.1,180,28,72
